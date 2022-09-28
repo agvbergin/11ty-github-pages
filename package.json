@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "env NODE_ENV=production npx eleventy --pathprefix '11ty-github-pages'"
+    "build": "env NODE_ENV=production npx eleventy --pathprefix '/11ty-github-pages/'"
   },
   "repository": {
     "type": "git",
